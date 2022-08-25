@@ -29,7 +29,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.57",
     "lodash": "^4.17.21",
-    "luxon": "^2.0.2",
+    "luxon": "^3.0.1",
     "react-use": "^17.2.4",
     "recharts": "^1.8.5"
   },
@@ -45,7 +45,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^13.1.8",
     "@types/jest": "^26.0.7",
-    "@types/luxon": "^2.0.4",
+    "@types/luxon": "^3.0.0",
     "@types/node": "^14.14.32",
     "cross-fetch": "^3.0.6",
     "msw": "^0.35.0"
