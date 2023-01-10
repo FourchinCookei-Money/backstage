@@ -35,7 +35,7 @@
     "git-url-parse": "^11.6.0",
     "@octokit/rest": "^18.5.3",
     "@octokit/auth-app": "^3.4.0",
-    "luxon": "^2.0.2",
+    "luxon": "^3.2.1",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
@@ -43,7 +43,7 @@
     "@backstage/config-loader": "^0.9.3",
     "@backstage/test-utils": "^0.2.3",
     "@types/jest": "^26.0.7",
-    "@types/luxon": "^2.0.4",
+    "@types/luxon": "^3.2.0",
     "msw": "^0.35.0"
   },
   "files": [
